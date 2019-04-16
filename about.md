@@ -3,24 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello! My name is Shadab Khan, and I am a researcher working at the intersection of ML, CV and Medical Imaging. I currently work at Inception Institute of AI in Abu Dhabi. Previously, I completed my postdoctoral fellowship at [Harvard Med/BCH](https://crl.med.harvard.edu), where I developed methods for fetal brain diffusion tensor imaging. I received my PhD from [Dartmouth](http://engineering.dartmouth.edu/) and my bachelors degree from [Manipal](https://manipal.edu).
+Hello! My name is Shadab Khan, and I am a researcher working at the intersection of ML, CV and Medical Imaging at [Inception Institute of AI](inceptioniai.org) in Abu Dhabi. 
 
-{% highlight python %}
-## SK Edit
-def funcName():
-    pass
-{% endhighlight %}
-{% highlight bash %}
-## SK Edit
-echo "Some val"
-ls .
-{% endhighlight %}
-<div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;hello world!&#39;</span>
-</pre></div>
+Previously, I completed my postdoctoral fellowship at [Harvard Med/BCH](crl.med.harvard.edu) working with Prof. [Ali Gholipour](imagine.med.harvard.edu), where I developed methods for [fetal brain diffusion tensor imaging and atlas construction](sciencedirect.com/science/article/pii/S1053811918307286), and [group analysis of fetal brains from a congenital heart disease (CHD) cohort](link.springer.com/chapter/10.1007/978-3-030-00931-1_4). I obtained my Ph.D. in Engineering Sciences from [Thayer School of Engineering](engineering.dartmouth.edu) at [Dartmouth College](dartmouth.edu) in June 2016. During my Ph.D., I was advised by Prof. [Ryan Halter](engineering.dartmouth.edu/people/faculty/ryan-halter/) at [The Center for Clinical Applications of Bioimpedance](engineering.dartmouth.edu/bioimpedance/). At Dartmouth, I was fortunate to be a recipient of the [Neukom Graduate Fellowship](neukom.dartmouth.edu/programs/2015grad_fellows.html), and [Outstanding Graduate Research in Computational Sciences](neukom.dartmouth.edu/funding/students/undergraduate-graduate-research-prizes) award. For my Ph.D. work, I used an [electrical impedance tomography system](ieeexplore.ieee.org/document/6948344) that I developed to spectroscopically analyze the [impedance contrast between benign and cancerous prostatic tissues](ncbi.nlm.nih.gov/pmc/articles/PMC5209243/). Additionally, I developed computer vision tools to assist an image-guided cancer resection procedure during robot-assisted radical prostatectomy.
 
-\\[
-\begin{split}
-r &= \begin{pmatrix} R & 0 \\\\ 0 & 1 \\\\ \end{pmatrix} \\\\\\\\
-t &= \begin{pmatrix} I & T \\\\ 0 & 1 \\\\ \end{pmatrix}
-\end{split}
-\\]
+During 2006-2010, I was an undergraduate student at [Manipal Academy of Higher Education](manipal.edu) in India, where I obtained a B.E. degree in Electrical Engineering. I did my Bachelors' thesis research work at [Institute for Sytems and Robotics](welcome.isr.tecnico.ulisboa.pt), in Lisbon, Portugal, with Prof. [Joao Sanches](isr.ist.utl.pt/~jmrs) and Prof. [Rodrigo Ventura](users2.isr.tecnico.ulisboa.pt/~yoda/newhome/) in the area of [computational pathology](ieeexplore.ieee.org/abstract/document/5512622).
+
+I can be reached at: skhan [dot] shadab [at] gmail for any questions or comments.
+

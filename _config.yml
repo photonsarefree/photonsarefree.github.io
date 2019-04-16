@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Photons Are Free
-email: skhan [d0t] shadab [8] gmail
+# email: skhan [d0t] shadab [8] gmail
 description: >- # this means to ignore newlines until "baseurl:"
   Shadab Khan's research blog.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -24,7 +24,7 @@ github_username:  photonsarefree
 
 # Build settings
 markdown: kramdown
-
+# exclude: theme
 #theme: minima
 # theme: math-minima
 remote_theme: photonsarefree/math-minima
