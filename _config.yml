@@ -26,7 +26,8 @@ github_username:  photonsarefree
 markdown: kramdown
 
 #theme: minima
-theme: math-minima
+# theme: math-minima
+remote_theme: photonsarefree/math-minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
