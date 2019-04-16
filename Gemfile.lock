@@ -1,7 +1,7 @@
 PATH
   remote: ../theme/math-minima
   specs:
-    math-minima (0.1.15)
+    myminima (1.0)
       jekyll (~> 3.8)
 
 GEM
@@ -70,7 +70,7 @@ DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
-  math-minima!
+  myminima!
   tzinfo-data
 
 BUNDLED WITH
