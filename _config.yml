@@ -18,7 +18,7 @@ title: Photons Are Free
 description: >- # this means to ignore newlines until "baseurl:"
   Shadab Khan's research blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: skhanshadab87
 github_username:  photonsarefree
 
