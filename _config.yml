@@ -25,7 +25,7 @@ github_username:  photonsarefree
 
 # Build settings
 markdown: kramdown
-# exclude: theme
+exclude: ['theme']
 #theme: minima
 remote_theme: photonsarefree/myminima
 plugins:
