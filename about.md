@@ -10,4 +10,4 @@ Previously, I completed my postdoctoral fellowship at [Harvard Med/BCH](https://
 During 2006-2010, I was an undergraduate student at [Manipal Academy of Higher Education](www.manipal.edu) in India, where I obtained a B.E. degree in Electrical Engineering. I did my Bachelors' thesis research work at [Institute for Sytems and Robotics](http://welcome.isr.tecnico.ulisboa.pt), in Lisbon, Portugal, with Prof. [Joao Sanches](http://www.isr.ist.utl.pt/~jmrs) and Prof. [Rodrigo Ventura](http://users2.isr.tecnico.ulisboa.pt/~yoda/newhome/) in the area of [computational pathology](https://ieeexplore.ieee.org/abstract/document/5512622).
 
 I can be reached at: skhan [dot] shadab [at] gmail for any questions or comments.
-[IIAI]: https://www.inceptioniai.org
+(IIAI): https://www.inceptioniai.org
