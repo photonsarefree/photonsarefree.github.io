@@ -26,8 +26,9 @@ github_username:  photonsarefree
 # Build settings
 markdown: kramdown
 exclude: ['theme']
-# theme: minima
-remote_theme: photonsarefree/myminima
+theme: myminima
+# remote_theme: photonsarefree/myminima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
