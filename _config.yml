@@ -22,12 +22,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: skhanshadab87
 github_username:  photonsarefree
-
+#
 # Build settings
 markdown: kramdown
 exclude: ['theme']
-theme: myminima
-# remote_theme: photonsarefree/myminima
+# theme: myminima
+remote_theme: photonsarefree/myminima
 
 plugins:
   - jekyll-feed
